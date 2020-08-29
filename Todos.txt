@@ -1,0 +1,9 @@
+﻿
+### BUGS
+
+- When adding new product to the cache, resultProd.sku sometimes null
+
+### FEATURES
+
+- Stop running on critical error
+
